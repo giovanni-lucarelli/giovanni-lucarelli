@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Giovanni
-I am a master's degree student in Artificial Intelligence and Machine Learning at the University of Trieste
+I'm a master's degree student in Artificial Intelligence and Machine Learning at the University of Trieste
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
